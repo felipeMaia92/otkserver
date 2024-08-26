@@ -34,7 +34,7 @@
     <angularjs.version>1.8.0</angularjs.version>
     <bootstrap.version>4.5.0</bootstrap.version>
     <jquery.version>3.5.1</jquery.version>
-    <swagger.version>2.9.2</swagger.version>
+    <swagger.version>2.10.0</swagger.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
     <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
     <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
